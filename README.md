@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eshansrivastav05
-- 👀 I’m interested in computer science, python programming, and artificial intelligence. However I am interested in all things STEM as well as the humanitities such as philosophy, literature, and history
+- 👀 Goal-Oriented High School student pursuing a High School Diploma and an International Baccalaureate Diploma at Marvin Ridge High School. Eager to learn more about computer science, programming, and STEM subjects. However, interested in the humanities as well and enthusiastic to learn about anything. Skilled in python programming and has a strong background in academic research in the humanities as well as STEM. Motivated by the pursuit of knowledge and skill acquisition. Proficient in time management, organization, and problem solving.
 - 🌱 I’m currently developing my skills in python programming
 - 💞️ I’m looking to collaborate on any small projects
 - 📫 Email me at eshansrivastav05@gmail.com or my LinkedIn: https://www.linkedin.com/in/eshan-srivastav-945b47273
